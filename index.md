@@ -26,6 +26,12 @@ Put the beer in a fresh place for some time.
 
 Enjoy!
 
+## Finally
+
+Maybe you are thinking *"Damn, but that's happening to my planet"*.
+
+Don't panic, there is always a [plan B](https://pysimone.github.io/theendoftheworld/planetb).
+
 ---
 
 *Meditate, gente, meditate...*
