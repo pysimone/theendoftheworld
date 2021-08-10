@@ -12,11 +12,11 @@ Now it's ready to welcome life.
 
 Inoculate the yeast!
 
-The yeast is in an environment with almost infinite resources and no predators. It begins to reproduce exponentially.
+The yeast finds an environment with almost infinite resources and no predators. It begins to reproduce exponentially.
 
 ## The end of the world
 
-Yeast erodes the available resources faster and faster and the environment is filled with waste: alcohol and carbon dioxide.
+Yeast erodes all the available resources faster and faster and the environment is filled with waste: alcohol and carbon dioxide.
 
 In a short time the yeast population collapses!
 
