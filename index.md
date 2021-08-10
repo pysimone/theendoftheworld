@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## In the beginning
 
-You can use the [editor on GitHub](https://github.com/pysimone/theendoftheworld/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Put the water and the malt in a pot and boil it for a few billion years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Add sugar for further enjoyment!
 
-### Markdown
+## The appearance of life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Put the wort in a fermeter. It needs to be cooled quickly and oxygenated.
 
-```markdown
-Syntax highlighted code block
+Now it's ready to welcome life.
 
-# Header 1
-## Header 2
-### Header 3
+Inoculate the yeast!
 
-- Bulleted
-- List
+The yeast is in an environment with almost infinite resources and no predators. It begins to reproduce exponentially.
 
-1. Numbered
-2. List
+## The end of the world
 
-**Bold** and _Italic_ and `Code` text
+Yeast erodes the available resources faster and faster and the environment is filled with waste: alcohol and carbon dioxide.
 
-[Link](url) and ![Image](src)
-```
+In a short time the yeast population collapses!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## The beer is ready
 
-### Jekyll Themes
+Put the beer in a fresh place for some time.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pysimone/theendoftheworld/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Enjoy!
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Meditate, gente, meditate...*
