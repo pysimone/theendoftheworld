@@ -16,7 +16,7 @@ The yeast finds an environment with almost infinite resources and no predators. 
 
 ## The end of the world
 
-Yeast erodes all the available resources faster and faster and the environment is filled with waste: alcohol and carbon dioxide.
+Yeast erodes all the available resources faster and faster and the environment is filled with waste: alcohol and carbon dioxide. To make matters worse it starts fighting for food...
 
 In a short time the yeast population collapses!
 
